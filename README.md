@@ -224,4 +224,4 @@ This cheat sheet provides an overview of the key topics for the AI-900 exam. Use
 
 Good luck with your exam!
 
-[Back to Top](AI-900-Azure-AI-Fundamentals-Cheat-Sheet)
+[Back to Top](#AI-900-Azure-AI-Fundamentals-Cheat-Sheet)
