@@ -1,10 +1,12 @@
 # AI-900 Azure AI Fundamentals Cheat Sheet
 
-![ViewCount](https://views.whatilearened.today/views/github/drahulsingh/AI-900-Azure-AI-Fundamentals-Cheat-Sheet.svg)
+![ViewCount](https://views.whatilearened.today/views/github/drahulsingh/AI-900-Azure-AI-Fundamentals-Cheat-Sheet.svg) 
+
+<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Badge" width="150" height="150">
 
 ## Skills at a Glance
 
-1. [Describe Artificial Intelligence Workloads and Considerations (15–20%)](#1-describe-artificial-intelligence-workloads-and-considerations-1520)
+1. [Describe Artificial Intelligence Workloads and Considerations (15–20%)](#1-describe-artificial-intelligence-workloads-and-considerations-1520) 
 2. [Describe Fundamental Principles of Machine Learning on Azure (20–25%)](#2-describe-fundamental-principles-of-machine-learning-on-azure-2025)
 3. [Describe Features of Computer Vision Workloads on Azure (15–20%)](#3-describe-features-of-computer-vision-workloads-on-azure-1520)
 4. [Describe Features of Natural Language Processing (NLP) Workloads on Azure (15–20%)](#4-describe-features-of-natural-language-processing-nlp-workloads-on-azure-1520)
