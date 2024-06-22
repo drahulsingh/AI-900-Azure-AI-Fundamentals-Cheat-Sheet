@@ -8,7 +8,7 @@
 - [Describe Fundamental Principles of Machine Learning on Azure (20–25%)](#2-describe-fundamental-principles-of-machine-learning-on-azure-2025)
 - [Describe Features of Computer Vision Workloads on Azure (15–20%)](#3-describe-features-of-computer-vision-workloads-on-azure-1520)
 - [Describe Features of Natural Language Processing (NLP) Workloads on Azure (15–20%)](#4-describe-features-of-natural-language-processing-nlp-workloads-on-azure-1520)
-- [Describe Features of Generative AI Workloads on Azure (15–20%)](#5-describe-features-of-generative-ai-workloads-on-azure-15-20)
+- [Describe Features of Generative AI Workloads on Azure (15–20%)](#5-describe-features-of-generative-ai-workloads-on-azure-1520)
 
 ## Exam Topics Overview
 
