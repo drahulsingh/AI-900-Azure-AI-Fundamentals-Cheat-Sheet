@@ -1,5 +1,7 @@
 # AI-900 Azure AI Fundamentals Cheat Sheet
 
+![ViewCount](https://views.whatilearened.today/views/github/drahulsingh/AI-900-Azure-AI-Fundamentals-Cheat-Sheet.svg)
+
 ## Exam Topics Overview
 
 ### 1. Describe Artificial Intelligence Workloads and Considerations (15–20%)
