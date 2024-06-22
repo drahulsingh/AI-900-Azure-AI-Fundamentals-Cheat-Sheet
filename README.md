@@ -2,7 +2,7 @@
 
 ![ViewCount](https://views.whatilearened.today/views/github/drahulsingh/AI-900-Azure-AI-Fundamentals-Cheat-Sheet.svg) 
 
-<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Badge" width="150" height="150">
+<img src="https://github.com/drahulsingh/AI-900-Azure-AI-Fundamentals-Cheat-Sheet/assets/76787888/3e12fed9-0111-4e83-9750-2c433e2990a0" alt="Badge" width="150" height="150">
 
 ## Skills at a Glance
 
